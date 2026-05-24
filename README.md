@@ -1,4 +1,14 @@
-# Active Directory Administration Lab
+# Active Directory Administration Lab  
+## Windows Server User & Group Management Project  
+
+![Active Directory](https://img.shields.io/badge/Technology-Active_Directory-blue)
+![Windows Server](https://img.shields.io/badge/Platform-Windows_Server-0078D6)
+![User Management](https://img.shields.io/badge/Skill-User_Management-green)
+![Group Policy](https://img.shields.io/badge/Feature-Group_Policy-orange)
+![PowerShell](https://img.shields.io/badge/Tool-PowerShell-purple)
+![IAM](https://img.shields.io/badge/Domain-Identity_and_Access_Management-red)
+![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-darkblue)
+![Enterprise IT](https://img.shields.io/badge/Context-Enterprise_IT-yellow)
 
 ## Project Overview
 
