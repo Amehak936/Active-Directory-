@@ -58,11 +58,6 @@ This project was created to showcase practical IT administration and cybersecuri
 
 Open Windows PowerShell as Administrator.
 
-### Screenshot
-
-```text
-Insert Screenshot Here
-```
 
 ---
 
@@ -82,9 +77,10 @@ Expected behavior:
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+
+<img width="844" height="632" alt="Screenshot 2026-05-24 at 3 50 48 PM" src="https://github.com/user-attachments/assets/f9002e5a-1d76-4bc7-80ba-d98289811b5e" />
+
+
 
 ---
 
@@ -101,7 +97,8 @@ This interface is used to manage users, groups, and organizational units.
 ### Screenshot
 
 ```text
-Insert Screenshot Here
+Insert Screenshot Here <img width="570" height="341" alt="Screenshot 2026-05-24 at 4 12 49 PM" src="https://github.com/user-attachments/assets/4cdab2e8-83b8-4986-bd91-a4369dcd5c4e" />
+
 ```
 
 ---
@@ -124,9 +121,9 @@ Fill in the required user information and create the account.
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+
+ <img width="553" height="298" alt="Screenshot 2026-05-24 at 4 17 16 PM" src="https://github.com/user-attachments/assets/1e031a90-6f97-4022-a081-41350743a21c" />
+
 
 ---
 
@@ -142,9 +139,9 @@ To activate the account.
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="468" height="252" alt="image" src="https://github.com/user-attachments/assets/900294af-f00d-4deb-b8f7-3bb4382205e5" />
+
+<img width="241" height="165" alt="image" src="https://github.com/user-attachments/assets/3e0dd8aa-d2e6-4aa9-aa59-86d7c773167e" />
 
 ---
 
@@ -158,9 +155,7 @@ Create a new security group named:
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="290" height="248" alt="image" src="https://github.com/user-attachments/assets/2c6866c1-74ed-474d-94e2-801f29fc3c68" />
 
 ---
 
@@ -178,9 +173,7 @@ This demonstrates nested group management commonly used in enterprise environmen
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="366" height="193" alt="image" src="https://github.com/user-attachments/assets/fe7f1a11-3f03-408a-bf1a-8feafe0570db" />
 
 ---
 
@@ -196,9 +189,7 @@ Inside:
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="468" height="355" alt="image" src="https://github.com/user-attachments/assets/245feead-bc21-40ea-b8a7-b803c7d87583" />
 
 ---
 
@@ -219,9 +210,7 @@ This demonstrates modifying role-based access permissions.
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="468" height="276" alt="image" src="https://github.com/user-attachments/assets/c1f917c1-f85f-426f-8cd8-a7fcc8372706" />
 
 ---
 
@@ -237,9 +226,7 @@ This tool allows administrators to manage enterprise policies across systems and
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="370" height="270" alt="image" src="https://github.com/user-attachments/assets/e7b0edf2-a1b5-4df5-887b-7c2846840207" />
 
 ---
 
@@ -255,9 +242,7 @@ Link the policy to:
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="468" height="224" alt="image" src="https://github.com/user-attachments/assets/d5cc4f2b-1689-46bb-b51d-0c39abac4215" />
 
 ---
 
@@ -283,9 +268,7 @@ Enable the setting and apply the wallpaper path.
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="468" height="319" alt="image" src="https://github.com/user-attachments/assets/3e632eb2-3ab5-4cbf-b57d-b0e5855d109c" />
 
 ---
 
@@ -297,9 +280,7 @@ Ensure the Desktop Wallpaper setting is successfully applied.
 
 ### Screenshot
 
-```text
-Insert Screenshot Here
-```
+<img width="468" height="233" alt="image" src="https://github.com/user-attachments/assets/41f8a83c-3deb-465c-b9d9-0b7c0231317e" />
 
 ---
 
