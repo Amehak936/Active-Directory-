@@ -96,10 +96,8 @@ This interface is used to manage users, groups, and organizational units.
 
 ### Screenshot
 
-```text
-Insert Screenshot Here <img width="570" height="341" alt="Screenshot 2026-05-24 at 4 12 49 PM" src="https://github.com/user-attachments/assets/4cdab2e8-83b8-4986-bd91-a4369dcd5c4e" />
+ <img width="455" height="624" alt="image" src="https://github.com/user-attachments/assets/392f94f3-b12b-42e5-9b0d-5b1e60d295a3" />
 
-```
 
 ---
 
@@ -173,7 +171,7 @@ This demonstrates nested group management commonly used in enterprise environmen
 
 ### Screenshot
 
-<img width="366" height="193" alt="image" src="https://github.com/user-attachments/assets/fe7f1a11-3f03-408a-bf1a-8feafe0570db" />
+<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/fe7f1a11-3f03-408a-bf1a-8feafe0570db" />
 
 ---
 
@@ -210,7 +208,7 @@ This demonstrates modifying role-based access permissions.
 
 ### Screenshot
 
-<img width="468" height="276" alt="image" src="https://github.com/user-attachments/assets/c1f917c1-f85f-426f-8cd8-a7fcc8372706" />
+<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/c1f917c1-f85f-426f-8cd8-a7fcc8372706" />
 
 ---
 
@@ -242,7 +240,7 @@ Link the policy to:
 
 ### Screenshot
 
-<img width="468" height="224" alt="image" src="https://github.com/user-attachments/assets/d5cc4f2b-1689-46bb-b51d-0c39abac4215" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d5cc4f2b-1689-46bb-b51d-0c39abac4215" />
 
 ---
 
@@ -268,7 +266,7 @@ Enable the setting and apply the wallpaper path.
 
 ### Screenshot
 
-<img width="468" height="319" alt="image" src="https://github.com/user-attachments/assets/3e632eb2-3ab5-4cbf-b57d-b0e5855d109c" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/3e632eb2-3ab5-4cbf-b57d-b0e5855d109c" />
 
 ---
 
@@ -280,7 +278,7 @@ Ensure the Desktop Wallpaper setting is successfully applied.
 
 ### Screenshot
 
-<img width="468" height="233" alt="image" src="https://github.com/user-attachments/assets/41f8a83c-3deb-465c-b9d9-0b7c0231317e" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/41f8a83c-3deb-465c-b9d9-0b7c0231317e" />
 
 ---
 
