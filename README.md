@@ -15,7 +15,7 @@ This project was created to showcase practical IT administration and cybersecuri
 
 ---
 
-# Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 - Active Directory Administration
 - Windows Server Administration
@@ -29,7 +29,7 @@ This project was created to showcase practical IT administration and cybersecuri
 
 ---
 
-# Tools & Technologies
+# 🛠️ Tools & Technologies 🔐💻
 
 | Tool | Purpose |
 |---|---|
@@ -40,7 +40,7 @@ This project was created to showcase practical IT administration and cybersecuri
 
 ---
 
-# Lab Objectives
+# 🎯 Lab Objectives 🔐🧪
 
 - Install and configure Active Directory
 - Create and manage users
@@ -52,7 +52,7 @@ This project was created to showcase practical IT administration and cybersecuri
 
 ---
 
-# Installation Process
+# ⚙️ Installation Process
 
 ## Step 1 — Launch PowerShell
 
@@ -61,7 +61,7 @@ Open Windows PowerShell as Administrator.
 
 ---
 
-## Step 2 — Install Active Directory
+## Step 2 — ⚙️ Install Active Directory
 
 Run the following PowerShell script:
 
@@ -84,7 +84,7 @@ Expected behavior:
 
 ---
 
-## Step 3 — Open Active Directory Administrative Center
+## Step 3 — ⚙️ Open Active Directory Administrative Center
 
 After installation completes and the system restarts:
 
@@ -101,7 +101,7 @@ This interface is used to manage users, groups, and organizational units.
 
 ---
 
-# User Management
+# 📁 User Management
 
 ## Step 4 — Create a New User
 
@@ -125,7 +125,7 @@ Fill in the required user information and create the account.
 
 ---
 
-## Step 5 — Configure User Password
+## Step 5 — 🔐 Configure User Password
 
 The account will initially appear disabled until a secure password is configured.
 
@@ -145,7 +145,7 @@ To activate the account.
 
 # Group Management
 
-## Step 6 — Create Python Developers Group
+## Step 6 — 👥 Create Python Developers Group
 
 Create a new security group named:
 
@@ -157,7 +157,7 @@ Create a new security group named:
 
 ---
 
-## Step 7 — Add Python Developers to Developers Group
+## Step 7 — 👥 Add Python Developers to Developers Group
 
 Add:
 
@@ -175,7 +175,7 @@ This demonstrates nested group management commonly used in enterprise environmen
 
 ---
 
-## Step 8 — Add Alex to Python Developers Group
+## Step 8 — 👥 Add Alex to Python Developers Group
 
 Modify the group membership to include:
 
@@ -193,7 +193,7 @@ Inside:
 
 # Editing User Memberships
 
-## Step 9 — Modify Existing User Memberships
+## Step 9 — 👤 Modify Existing User Memberships
 
 Locate the existing user:
 
@@ -214,7 +214,7 @@ This demonstrates modifying role-based access permissions.
 
 # Group Policy Management
 
-## Step 10 — Open Group Policy Management
+## Step 10 — 🔍 Open Group Policy Management
 
 Launch:
 
@@ -228,7 +228,7 @@ This tool allows administrators to manage enterprise policies across systems and
 
 ---
 
-## Step 11 — Create a New GPO
+## Step 11 — 📜 Create a New GPO
 
 Create a Group Policy Object named:
 
@@ -244,7 +244,7 @@ Link the policy to:
 
 ---
 
-## Step 12 — Configure Desktop Wallpaper Policy
+## Step 12 — 🌐 Configure Desktop Wallpaper Policy
 
 Navigate to:
 
@@ -270,7 +270,7 @@ Enable the setting and apply the wallpaper path.
 
 ---
 
-## Step 13 — Verify GPO Settings
+## Step 13 — 📄 Verify GPO Settings
 
 Verify the configured wallpaper policy inside the Group Policy Management Console.
 
